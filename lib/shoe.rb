@@ -4,10 +4,9 @@ class Shoe
   attr_reader :brand, :color
   attr_accessor :size
   
-  def initialize(brand, color)
+  def initialize(brand)
     @brand = brand
-    @color = color
   end 
 end
 
-nike = Shoe.new("Nike", "red")
+adidas = Shoe.new("Adidas", "red")
