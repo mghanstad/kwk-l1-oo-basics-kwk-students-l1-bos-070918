@@ -10,3 +10,4 @@ class Shoe
 end
 adidas = Shoe.new("Adidas")
 
+puts "Your shoe is as good as new!"
