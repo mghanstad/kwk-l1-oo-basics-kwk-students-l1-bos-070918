@@ -7,6 +7,6 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end 
-end
 
-adidas = Shoe.new("Adidas", "red")
+adidas = Shoe.new("Adidas")
+
