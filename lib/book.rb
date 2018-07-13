@@ -9,6 +9,10 @@ class Book
     @title = title
   end
   
+  def turn_page
+    
+  end
+  
 end
 
 #great_gatsby = Book.new("The Great Gatsby", "F. Scott Fitzgerald", "Fiction", 180)
