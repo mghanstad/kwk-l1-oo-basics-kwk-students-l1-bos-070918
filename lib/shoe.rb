@@ -14,5 +14,5 @@ class Shoe
   end
   
 end
-adidas = Shoe.new("Adidas")
+nike = Shoe.new("Nike")
 
